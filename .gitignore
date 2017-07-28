@@ -1,0 +1,5 @@
+vendor/**
+composer.phar
+composer.lock
+composer.json
+adsapi_php.ini
